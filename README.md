@@ -1,6 +1,6 @@
 <h2 align="center"> About me </h2>
   <div align="center">
-![tumblr_263255d4c7e90cda16f324cedc2c6e5c_5ea102d2_1280](https://github.com/RRiiverr/RRiiverr/assets/80535996/ff3d6256-85cc-4af4-84b7-3183048ff92f)
+![tumblr_263255d4c7e90cda16f324cedc2c6e5c_5ea102d2_1280]
 
   </div>
 <li>
