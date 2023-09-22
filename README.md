@@ -4,7 +4,7 @@ Currently Learning Python<br>
 <div>
 <h2 align="center"> Sayonara ~ </h2>
   <div align="center">
-<img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://64.media.tumblr.com/cb3c4836c7861c52aa2e62e53d37c818/bf183055ac6cb592-53/s540x810/fa921e7a7023b2cead1eb8d611b56529bb3511bc.gifv)" align="right">
+<img src="https://i.postimg.cc/fLQTcnBk/tumblr-cb3c4836c7861c52aa2e62e53d37c818-fa921e7a-540.gif" align="right">
   </div>
 
 ## 🌐 Socials:
