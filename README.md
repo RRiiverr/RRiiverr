@@ -1,5 +1,6 @@
 # 💫 About Me:
 Currently Learning Python<br>
+![tumblr_cb3c4836c7861c52aa2e62e53d37c818_fa921e7a_540](https://github.com/RRiiverr/RRiiverr/assets/80535996/b8ff894c-0225-4cfe-9b3a-8ee9683361a8)
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/YourRiver) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourRiverrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@getonyourkneesnow) 
