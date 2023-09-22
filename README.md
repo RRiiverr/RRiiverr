@@ -1,5 +1,34 @@
-# 💫 About Me:
-Currently Learning Python<br>
+<h2 align="center"> About me </h2>
+  <div align="center">
+![tumblr_263255d4c7e90cda16f324cedc2c6e5c_5ea102d2_1280](https://github.com/RRiiverr/RRiiverr/assets/80535996/ff3d6256-85cc-4af4-84b7-3183048ff92f)
+
+  </div>
+<li>
+ <b>Name:</b> River </li>
+<li>
+<b>Colors:</b> Crimson Red/Emerald Green/Dark Blue
+</li>
+<li>
+<b>Loves:</b> Anime, Her, Aim Training, FPS Games and Cheesy Food
+</li>
+<li>
+<b>Gender:</b> he/him/male
+</li>
+<li>
+<b>Games:</b> Valorant/Overwatch/Minecraft
+</li>
+<li>
+<b>Spotify:</b> https://open.spotify.com/user/ur9kzfpy8ea07p53y7nyvyciv?si=4dea76dfa9334995
+</li>
+<li>
+<b>Hobbies:</b> Video Editing, Gaming and Binge watching anime.
+</li>
+<li>
+<b>Working @:</b> Mastering coding/programming
+</li>
+<br><br><br>
+</div>
+<div>
 
 ![tumblr_cb3c4836c7861c52aa2e62e53d37c818_fa921e7a_540](https://github.com/RRiiverr/RRiiverr/assets/80535996/b8ff894c-0225-4cfe-9b3a-8ee9683361a8)
 
