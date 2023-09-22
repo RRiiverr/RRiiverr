@@ -38,7 +38,7 @@
 <p align="center"><a href="https://twitter.com/YourRiverrr" target="_blank"><img src="https://img.shields.io/badge/YourRiver%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/riverless" target="_blank"><img src="https://img.shields.io/badge/riverless%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 
-# 💻 Tech Stack:
+# 💻 Currently Learning(Except Adobe):
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RRiiverr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
