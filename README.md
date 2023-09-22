@@ -1,6 +1,11 @@
 # 💫 About Me:
 Currently Learning Python<br>
 
+<div>
+<h2 align="center"> Sayonara ~ </h2>
+  <div align="center">
+<img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://64.media.tumblr.com/cb3c4836c7861c52aa2e62e53d37c818/bf183055ac6cb592-53/s540x810/fa921e7a7023b2cead1eb8d611b56529bb3511bc.gifv)" align="right">
+  </div>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/YourRiver) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourRiverrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@getonyourkneesnow) 
