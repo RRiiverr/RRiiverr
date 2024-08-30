@@ -14,7 +14,7 @@
 <b>Loves:</b> Anime, Her, Aim Training, FPS Games and Cheesy Food
 </li>
 <li>
-<b>Love:</b> Married since 16.05.2023, found happiness in this dark world. So all you bitches fuck off.
+<b>Love:</b> hers
 </li>
 <li>
 <b>Gender:</b> he/him/male
